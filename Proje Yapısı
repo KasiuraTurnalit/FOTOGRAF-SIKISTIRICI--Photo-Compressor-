@@ -1,0 +1,6 @@
+photo-compressor/
+├── photo_compressor_V1.0 & V2.0.py       # Ana program
+├── requirements.txt                      # Bağımlılıklar
+├── README.md                             # Bu dosya
+├── LICENSE                               # Lisans dosyası
+└── screenshots/                          # Ekran görüntüleri
