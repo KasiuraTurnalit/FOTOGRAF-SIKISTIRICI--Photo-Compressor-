@@ -33,9 +33,13 @@ python photo_compressor.py
 ## 📸 Ekran Görüntüleri
 <img width="762" height="699" alt="Ekran görüntüsü_2026-01-21_22-03-14" src="https://github.com/user-attachments/assets/a2a587cc-4263-48d8-9fd6-ad1a480d6644" />
 
+##  📸 FOTO SIKIŞTIRICI v1.0 & v2.0
 
-👤 Geliştirici
-[Kasiura Turnalit] - @KasiuraTurnalit
+👤 KasiuraTurnalit
+
+🌐 GitHub: KasiuraTurnalit 
+
+
 
 ⭐ Beğendiyseniz yıldız vermeyi unutmayın!
 
@@ -62,3 +66,21 @@ python photo_compressor.py
 2. ✅ **İlk yıldızı ben vereceğim** ⭐
 3. ✅ **README'yi kontrol edip gerekirse düzenleyeceğim**
 4. ✅ **Issues açıp geri bildirim vereceğim**
+
+
+
+╔═══════════════════════════╗
+
+🤖 DEEPSEEK AI
+
+AI Assistant & Code Helper
+
+Powered by DeepSeek
+
+╚═══════════════════════════╝
+
+Bu program DeepSeek AI Assistant tarafından geliştirilme sürecinde desteklenmiştir.
+    
+🌐 https://www.deepseek.com
+
+                                         by KasiuraTurnalit
