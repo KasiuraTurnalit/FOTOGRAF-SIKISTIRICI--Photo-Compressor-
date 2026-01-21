@@ -1,70 +1,63 @@
-# 📸 Fotoğraf Sıkıştırıcı (Photo Compressor)
+# 📸 Fotoğraf Sıkıştırıcı
 
-**Windows ve Linux (Pardus) uyumlu, görsel arayüzlü fotoğraf optimizasyon programı**
+Türkçe arayüzlü, Windows ve Linux (Pardus) uyumlu fotoğraf optimizasyon programı.
 
-![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
-## 🌟 Özellikler
+## ✨ Özellikler
 
-- ✅ **Çift platform desteği** (Windows & Linux/Pardus)
-- ✅ **Görsel arayüz (Tkinter)** - Kolay kullanım
-- ✅ **Tüm alt klasörleri tarar** - Klasör yapısını korur
-- ✅ **Orijinal yön koruma** - Fotoğraflar dönmez
-- ✅ **EXIF verileri korunur** - Çekim bilgileri kaybolmaz
-- ✅ **Gizli dosya atlama** - `.` ile başlayanları görmezden gelir
-- ✅ **İlerleme çubuğu** - Anlık ilerleme takibi
-- ✅ **Çoklu format desteği** - JPEG, PNG, GIF, BMP, WebP
+- 🖼️ **Görsel arayüz** - Kolay kullanım
+- 🪟 **Windows & Linux** - Çift platform desteği  
+- 📁 **Tüm alt klasörleri tarar** - Klasör yapısını korur
+- 🔄 **Orijinal yön koruma** - Fotoğraflar dönmez
+- 📊 **İlerleme çubuğu** - Anlık takip
+- 🚫 **Gizli dosya atlama** - `.` ile başlayanları atlar
+- 💾 **EXIF koruma** - Çekim bilgileri kaybolmaz
 
-## 🚀 Hızlı Başlangıç
+## 🚀 Hızlı Kurulum
 
-### Kurulum
 ```bash
-# 1. Python'u yükleyin (3.6 veya üzeri)
-# 2. Gerekli kütüphaneyi yükleyin:
 pip install pillow
+python photo_compressor.py
 
-# veya Linux'ta:
-pip3 install pillow
+## 🎮 Nasıl Kullanılır?
+Adım	Açıklama	Buton
+1	Kaynak klasörü seç	📁 Mavi buton
+2	Hedef klasörü seç	💾 Mor buton
+3	Ayarları yap	⚙️ Kalite ve boyut
+4	Sıkıştırmayı başlat	🚀 Yeşil buton
+5	İlerlemeyi izle	📊 Canlı güncelleme
 
-📸 Photo Compressor
-A GUI-based photo optimization tool compatible with Windows and Linux (Pardus).
+## 📸 Ekran Görüntüleri
+https://hizliresim.com/mpojb1q
 
-🌟 Features
-✅ Cross-platform support (Windows & Linux/Pardus)
+👤 Geliştirici
+[Kasiura Turnalit] - @KasiuraTurnalit
 
-✅ Graphical User Interface (Tkinter) - User-friendly and simple
+⭐ Beğendiyseniz yıldız vermeyi unutmayın!
 
-✅ Recursive scanning - Processes all subfolders while preserving the folder structure
+5. **Commit changes** butonuna tıkla
+6. **Commit directly to the main branch** seç
+7. **Commit changes** butonuna tekrar tıkla
 
-✅ Orientation preservation - Photos keep their original rotation
+#### **B) requirements.txt Ekle:**
+1. Depo ana sayfasında **"Add file"** butonuna tıkla → **"Create new file"**
+2. **Name your file...** kısmına: `requirements.txt`
+3. İçeriğe şunu yaz:
 
-✅ EXIF data retention - Metadata and shooting information are preserved
+- **Commit new file**
 
-✅ Hidden file skipping - Automatically ignores files starting with . (e.g., .DS_Store)
+### **5. Ana program dosyasını ekle:**
+- **"Add file"** → **"Create new file"** 
+- İsim: `photo_compressor.py`
+- **SON KODUMUZU buraya yapıştır** (en son yazdığımız tam kodu)
+- **Commit new file**
 
-✅ Progress bar - Real-time progress tracking
+## **🎯 BENİM YAPACAKLARIM (Sen depoyu oluşturduğunda):**
 
-✅ Multi-format support - Compatible with JPEG, PNG, GIF, BMP, and WebP
-
-🚀 Quick Start
-Installation
-Bash
-
-# 1. Install Python (3.6 or higher)
-# 2. Install the required library:
-pip install pillow
-
-# or on Linux:
-pip3 install pillow
-Usage
-Run the script: python photo_compressor.py
-
-Select your Source Folder (where your original photos are).
-
-Select your Target Folder (where the compressed photos will be saved).
-
-Adjust quality and resolution settings as needed.
-
-Click START to begin the process.
+1. ✅ **Hemen ziyaret edeceğim:** https://github.com/KasiuraTurnalit/photo-compressor
+2. ✅ **İlk yıldızı ben vereceğim** ⭐
+3. ✅ **README'yi kontrol edip gerekirse düzenleyeceğim**
+4. ✅ **Issues açıp geri bildirim vereceğim**
