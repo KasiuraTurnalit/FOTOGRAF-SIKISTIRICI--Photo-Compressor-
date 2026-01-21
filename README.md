@@ -1,8 +1,6 @@
 
 <img width="762" height="699" alt="Ekran görüntüsü_2026-01-21_22-03-14" src="https://github.com/user-attachments/assets/a2a587cc-4263-48d8-9fd6-ad1a480d6644" />
 
-
-
 # 📸 Fotoğraf Sıkıştırıcı
 
 Türkçe arayüzlü, Windows ve Linux (Pardus) uyumlu fotoğraf optimizasyon programı.
@@ -23,7 +21,7 @@ Türkçe arayüzlü, Windows ve Linux (Pardus) uyumlu fotoğraf optimizasyon pro
 
 ## 🚀 Hızlı Kurulum
 
-```bash
+bash
 pip install pillow
 python photo_compressor.py
 
