@@ -1,3 +1,68 @@
+📸 Photo Compressor
+A Turkish interface photo optimization program compatible with Windows and Linux (Pardus).
+
+https://img.shields.io/badge/Python-3.6%252B-blue
+https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux-green
+https://img.shields.io/badge/GUI-Tkinter-orange
+
+✨ Features
+🖼️ Visual interface - Easy to use
+
+🪟 Windows & Linux - Dual platform support
+
+📁 Scans all subfolders - Preserves folder structure
+
+🔄 Original orientation preservation - Photos won't rotate
+
+📊 Progress bar - Real-time tracking
+
+🚫 Hidden file skipping - Ignores files starting with .
+
+💾 EXIF preservation - Photo metadata won't be lost
+
+🚀 Quick Installation
+bash
+pip install pillow
+python photo_compressor.py
+🎮 How to Use
+📁 Select Source Folder (Blue button)
+
+💾 Select Target Folder (Purple button)
+
+⚙️ Adjust Settings
+
+🚀 Start Compression
+
+📊 Monitor Progress
+
+📸 Screenshots
+<img width="762" height="699" alt="Screenshot_2026-01-21_22-03-14" src="https://github.com/user-attachments/assets/a2a587cc-4263-48d8-9fd6-ad1a480d6644" />
+📸 PHOTO COMPRESSOR v1.0 & v2.0
+👤 KasiuraTurnalit
+
+🌐 GitHub: KasiuraTurnalit
+
+⭐ If you like it, don't forget to give it a star!
+
+🤖 AI Development Support
+This program was developed with support from DeepSeek AI Assistant during the development process.
+
+╔═══════════════════════════╗
+
+🤖 DEEPSEEK AI
+
+AI Assistant & Code Helper
+
+Powered by DeepSeek
+
+╚═══════════════════════════╝
+
+🌐 https://www.deepseek.com
+Developed by KasiuraTurnalit
+
+
+
+
 # 📸 Fotoğraf Sıkıştırıcı
 
 Türkçe arayüzlü, Windows ve Linux (Pardus) uyumlu fotoğraf optimizasyon programı.
