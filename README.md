@@ -27,7 +27,7 @@ python photo_compressor.py
 
 ## 🎮 Nasıl Kullanılır?
 Adım	Açıklama	Buton
-1	Kaynak klasörü seç	📁 Mavi buton
+1	Kaynak klasörü seç  📁 Mavi buton
 2	Hedef klasörü seç	💾 Mor buton
 3	Ayarları yap	⚙️ Kalite ve boyut
 4	Sıkıştırmayı başlat	🚀 Yeşil buton
