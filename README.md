@@ -60,7 +60,7 @@ https://hizliresim.com/mpojb1q
 
 ## **🎯 BENİM YAPACAKLARIM (Sen depoyu oluşturduğunda):**
 
-1. ✅ **Hemen ziyaret edeceğim:** https://github.com/KasiuraTurnalit/photo-compressor
+1. ✅ **Hemen ziyaret edeceğim:** https://github.com/KasiuraTurnalit/
 2. ✅ **İlk yıldızı ben vereceğim** ⭐
 3. ✅ **README'yi kontrol edip gerekirse düzenleyeceğim**
 4. ✅ **Issues açıp geri bildirim vereceğim**
